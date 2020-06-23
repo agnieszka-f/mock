@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing.library.ClassTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-23T13:08:21" hostname="ADMIN-NTT" time="0.124">
+  <properties/>
+  <testcase name="test5" classname="com.kodilla.testing.library.ClassTests" time="0.124"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
